@@ -4,6 +4,7 @@
 
 ➥ &nbsp;I'm currently in my final year of high school.\
 ➥ &nbsp;I'm interested in webdev, gamedev, hardware & pcbs, and 3d cad.\
+➥ &nbsp;I'm looking to pursue mechanical engineering.\
 ➥ &nbsp;In my free time, I enjoy working on random projects.\
 ➥ &nbsp;You can shoot me an email at alimkotb@gmail.com! I'll try to respond as soon as I can.
 
